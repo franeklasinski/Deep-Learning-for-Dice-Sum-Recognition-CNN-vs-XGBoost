@@ -76,3 +76,10 @@ Zbiór danych zawiera obrazy kostek o różnej jasności, kontraście i liczbie 
 
 ---
 
+<img width="548" height="405" alt="Zrzut ekranu 2025-11-23 o 13 19 53" src="https://github.com/user-attachments/assets/8b8b94c1-c550-46c5-b434-2967dc60c296" />
+
+<img width="1389" height="490" alt="image" src="https://github.com/user-attachments/assets/2fbdd3c1-884b-403d-99e8-a713f6f87cae" />
+
+
+<img width="1540" height="500" alt="image" src="https://github.com/user-attachments/assets/a3490a6c-6374-4534-bf5b-d25cb77e39f2" />
+
